@@ -28,11 +28,12 @@
 <br/>
 <div align="center" style="font-size:20px">🌱我目前正在持续学习Javascript，Vue3.js的使用🌱</div>
 <br/>  
+
 <div align="center" style="font-size:20px">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>
 <br/>
 
 <!-- 贪吃蛇动图 -->
-
+<div align="center"><img src="https://raw.githubusercontent.com/Max-Samson/Max-Samson/refs/heads/output/github-contribution-grid-snake.svg?new=20250808" /></div>
 <br/>
 
 <!-- 个人打卡记录 -->

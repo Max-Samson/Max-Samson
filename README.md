@@ -47,8 +47,8 @@
 ## Github Stats
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Max-Samson&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Samson&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+    <img height="137px" src="https://github-readme-stats-plus-theta.vercel.app/api?username=Max-Samson&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+    <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs?username=Max-Samson&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <!-- for beauty 留个空行好看点 -->
 

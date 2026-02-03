@@ -37,10 +37,10 @@
 <br/>
 
 <!-- 个人打卡记录 -->
-
+<!-- 
 ## Github Streak
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Max-Samson&theme=github-compact&hide_border=true&area=true">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Max-Samson&theme=github-compact&hide_border=true&area=true"> -->
 
 <!-- star 语言占比等统计 -->
 

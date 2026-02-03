@@ -26,7 +26,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=23&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%E5%8B%87%E6%B0%94%E4%B8%8D%E6%98%AF%E5%96%8A%E5%8F%A3%E5%8F%B7%EF%BC%8C%E8%80%8C%E6%98%AF%E6%AF%8F%E4%B8%80%E6%AD%A5%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0%E7%9A%84%E8%A1%8C%E5%8A%A8%EF%BC%81" alt="Typing SVG" /></a></div>
 <div align="center" style="font-size:20px">🤩酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🤩</div>
 <br/>
-<div align="center" style="font-size:20px">🌱我目前正在持续学习Javascript，Vue3.js的使用🌱</div>
+<div align="center" style="font-size:20px">🌱我目前正在持续学习Typescript，React的使用🌱</div>
 <br/>  
 
 <div align="center" style="font-size:20px">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>
@@ -47,7 +47,7 @@
 ## Github Stats
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Max-Samson&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Max-Samson&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Samson&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <!-- for beauty 留个空行好看点 -->
@@ -56,7 +56,7 @@
 
 ## My Skill Set
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,py,c,java,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,astro,vue,react,figma,md&theme=light" />
 </br>
 <!-- for beauty 留个空行好看点 -->
 
@@ -64,7 +64,7 @@
 
 ## Connect with me
 <div align="center">
- <a href="https://github.com/Max-Samson target="_blank"> 
+ <a href="https://github.com/Max-Samson" target="_blank"> 
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt=github height="40" style="margin-right: 10px;border-radius: 8px;" /> 
  </a>
   <a href="https://gitee.com/Max-Samson" target="_blank"> 

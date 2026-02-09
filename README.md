@@ -33,7 +33,7 @@
 <br/>
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/Max-Samson/Max-Samson/refs/heads/output/github-contribution-grid-snake.svg?new=20260208" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Max-Samson/Max-Samson/refs/heads/output/github-contribution-grid-snake.svg?new=20260209" /></div>
 <br/>
 
 <!-- 个人打卡记录 -->

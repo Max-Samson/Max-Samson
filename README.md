@@ -17,13 +17,13 @@
 
 <!-- Personal Introduction -->
 
-### <div align="center">✨ I am **XiaoSHUAI**, a front-end enthusiast with the goal of becoming an excellent front-end engineer ✨</div>
+### <div align="center">✨A front-end enthusiast with the goal of becoming an excellent front-end engineer ✨</div>
 
 <!-- Personal Motto -->
 
-<br/>
+<!-- <br/>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=23&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Courage%20is%20not%20a%20slogan%2C%20but%20the%20action%20of%20every%20step!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=23&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Courage%20is%20not%20a%20slogan%2C%20but%20the%20action%20of%20every%20step!" alt="Typing SVG" /></a></div> -->
 <!-- <div align="center" style="font-size:20px">🤩 I love programming, enjoy developing interesting projects, and learn through my interests 🤩</div>
 <br/>
 <div align="center" style="font-size:20px">🌱 I am currently continuously learning TypeScript and React 🌱</div>

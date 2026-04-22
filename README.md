@@ -19,7 +19,7 @@
 
 ## My Skill Set
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,astro,vue,react,figma,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,astro,nuxt,vue,react,figma,md&theme=light" />
 <!-- For beauty, leave an empty line to look better -->
 
 <!-- Personal Contact -->

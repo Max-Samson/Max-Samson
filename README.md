@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Miles!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-
 <!-- Dynamic typing effect -->
 <div align="center">
-  <div>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF903F&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2CWorld!%22)" alt="Typing SVG" /></a>
+<div>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF903F&center=true&vCenter=true&width=520&lines=console.log(%22Hello,I'm%20Miles!%22)" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -19,7 +17,7 @@
 
 ## My Skill Set
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,astro,nuxt,vue,react,figma,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,nodejs,astro,nuxt,vue,react,figma,md&theme=light" />
 <!-- For beauty, leave an empty line to look better -->
 
 <!-- Personal Contact -->
@@ -29,5 +27,3 @@
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt=github height="40" style="margin-right: 10px;border-radius: 8px;" />
  </a>
 </br> -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">

@@ -18,9 +18,7 @@
 
 ### 🛠️ My Tech Stack
 
-These are not only my technologies, but also my daily drivers for building high-performance web products:
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,astro,nuxtjs,tailwind,nodejs,cloudflare,sqlite,docker,git,vite,md,figma,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,astro,nuxtjs,tailwind,nodejs,cloudflare,python,go,sqlite,docker,vercel,git,github,vite,md,figma)
 
 ---
 
